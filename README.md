@@ -1,9 +1,5 @@
-## Campaign Plan
+# Exit to Logos
 
-This document outlines the Exit to Logos strategy, including:
-- Goals
-- Outreach Tactics
-- RPG-style onboarding
-- KPIs and success metrics
+This campaign strategy outlines a vision to steward and scale the Logos network, focusing on Cell support, on-chain engagement, and decentralized identity. It serves as the public-facing entry point for campaign participants.
 
-> We treat this like an already-underway campaign. Not a pitch — a playbook.
+See detailed strategy documents in `/strategy`, contributor onboarding in `/rpg-onboarding`, and technical briefs in `/briefs`.

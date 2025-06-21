@@ -1,8 +1,12 @@
-## RPG Layer for Cell Onboarding
+# RPG Onboarding Strategy
 
-Contributors level up by completing missions (bounties, research, IRL actions).
-Badges and roles are assigned via Codex.
+This document outlines a gamified onboarding experience for new contributors joining the Exit to Logos campaign.
 
-- XP = participation
-- Factions = interests
-- Roles = responsibility + trust
+### Narrative Structure
+- Begin as a seeker
+- Complete quests (issues)
+- Level up reputation (on-chain and social)
+
+...
+
+(From Canvas doc)

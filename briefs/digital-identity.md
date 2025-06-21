@@ -1,9 +1,15 @@
-## Decentralized Identity Brief
+# Digital Identity Briefing
 
-We reject biometric surveillance models like WorldCoin.
-Instead, we explore:
-- Holonym
-- Proof-of-clean-hands
-- Pseudonymous, revocable credentials
+This briefing outlines the need for decentralized, privacy-preserving identity frameworks in alignment with Logos values.
 
-All tied to Codex and Nomos logic.
+### Key Concerns
+- Worldcoin-style biometrics violate autonomy
+- Surveillance-based identity harms marginalized communities
+
+### Our Proposal
+- Use Holonym-style ZK proofs
+- Integrate with on-chain and pseudonymous systems
+
+...
+
+(From Canvas doc)
