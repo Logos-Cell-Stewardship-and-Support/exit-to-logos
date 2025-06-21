@@ -1,3 +1,9 @@
-# Exit to Logos
+## Campaign Plan
 
-A campaign strategy to grow, support, and coordinate Logos Cells through participatory tooling, pseudonymous engagement, and builder-first infrastructure.
+This document outlines the Exit to Logos strategy, including:
+- Goals
+- Outreach Tactics
+- RPG-style onboarding
+- KPIs and success metrics
+
+> We treat this like an already-underway campaign. Not a pitch — a playbook.
