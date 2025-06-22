@@ -1,133 +1,181 @@
-# Digital Identity Briefing – Supplement to the Exit to Logos Campaign
-
+# Engagement Funnel: From Curiosity to Cell Stewardship  
+*Invisible & Ephemeral by Design*  
+**Supplement to the Exit to Logos Campaign**  
 **Prepared by:** Exit Stewardship Team  
 **Date:** June 2025  
 
 ---
 
-## Summary
+## 🧭 Summary
 
-This briefing outlines an identity strategy to support the **expansion and coordination of Logos Cells**, in alignment with the Exit to Logos campaign goals. Rather than defaulting to centralized CRMs or biometric “proof-of-humanity” schemes, we propose a modular, **opt-in system of pseudonymous reputation**, enabling community trust and engagement without coercion.
+This engagement funnel guides individuals from first contact to active participation in Logos Cells, based on values of **voluntary association**, **privacy**, and **shared narrative**. Unlike traditional funnels, this one is **ephemeral, consent-based**, and **invisible by design**—a pattern language for decentralized growth.
 
-This infrastructure will support:
-- **Case study sharing** and lore propagation between cells
-- **Lightweight Sybil resistance**
-- **Trust-building for contributors and decision-making**
-- Metrics aligned with real-world impact, not surveillance
+There is no pressure to convert—only an invitation to co-create.
+
+We call this the **non-funnel funnel**: a library of porous rituals, symbolic artifacts, and narrative signals that propagate autonomy without central control.
 
 ---
 
-## Strategic Objectives
+## 🎯 Core Objectives
 
-1. **Empower new and existing cells** with optional tooling for collaboration, trust, and storytelling.
-2. **Avoid surveillance-based systems** by designing for consent, pseudonymity, and self-hosting.
-3. **Enable discovery and interoperability** via decentralized identity primitives (e.g. Waku social graph).
-4. **Measure legitimacy by contribution, not compliance.**
-
----
-
-## Core Campaign Fit
-
-The identity layer is **not the product**—it's scaffolding to support what matters: **cells doing meaningful work** and **sharing their learnings**. This proposal connects directly to:
-
-- **Cell expansion KPIs**  
-- **Narrative propagation and lore building**  
-- **Contributor onboarding + coordination**  
-- **Decentralized, values-aligned infrastructure**
-
-This approach **dogfoods Logos’ own stack** (Waku, Codex, Nomos), aligning our practices with our principles.
+- **Expand and empower Cells**—support their emergence, survival, and cultural depth  
+- **Foster genuine participation** without coercive incentives or extractive logic  
+- **Use the Logos stack (Codex, Waku, Nomos)** to coordinate and support opt-in contributions  
+- **Track meaningful KPIs** that reflect values-aligned activity, not vanity metrics  
 
 ---
 
-## Principles
+## 🌀 Invisible & Consent-Based Stages
 
-- **Voluntary**: No identity system is required to participate.
-- **Modular**: Tools should be plug-and-play, not monolithic.
-- **Privacy-Preserving**: No biometric data, no centralized attestations.
-- **Forkable**: Cells should be able to run their own verification or reputation processes.
-- **Composable**: Reputation can be carried across contexts, if chosen.
+### 1. 👀 Curiosity (Awareness)
 
----
+> *“What is Logos? Who are these people?”*
 
-## Tools and Infrastructure
+**Tactics**  
+- Lore-rich social content and memes (non-prescriptive)  
+- Narrative explainers (e.g. “Exit isn’t secession—it’s substitution”)  
+- Field reports and testimonials from Cells  
+- Ephemeral zines, PDFs, or digital lore drops  
 
-| Tool | Use Case | Notes |
-|------|----------|-------|
-| **Waku** | Share social graph + rep signals | Used for consent-based reputation messaging |
-| **Subgraph Indexes** | Behavior-based Sybil resistance | Lightweight on-chain or off-chain behavior tracking |
-| **Holonym** | zkKYC or proof-of-clean-hands | Optional opt-in for cells requiring regulatory assurance |
-| **Codex** | Self-hosted reputation or contribution logs | Cell-based and sovereign |
-| **Nomos** | Gated participation based on rep or trust level | Used for deliberation, not exclusion |
+**Tools**  
+- Waku relays (for story fragments and media pings)  
+- Codex (for living lore libraries and remixable artifacts)  
+- Custom portals, zine mirrors, and shortlinks  
 
----
-
-## Funnel Design (Optional Participation)
-
-1. **Initial Entry**  
-   - Join a cell or follow project updates anonymously
-   - No login or ID needed
-
-2. **Engagement**  
-   - Optional linking of GitHub, Farcaster, or Wallet
-   - Earn rep by contributing to lore, proposals, code
-
-3. **Optional Verification**  
-   - Cell-specific attestations (skill, contribution, trust)
-   - Proof-of-clean-hands or uniqueness only where necessary
-
-4. **Portable Identity Layer**  
-   - Users may export rep/NFTs via Codex + Subgraph for use across Logos tools
-   - Opt-in visibility and linkage only
+**KPI Targets**  
+- `10,000+` unique site/lore interactions per quarter  
+- `2,000+` reposts or shares of lore artifacts  
+- `6+` new audience segments reached (by theme or geography)  
 
 ---
 
-## Key Metrics (Aligned with Campaign KPIs)
+### 2. 🧭 Engagement (Signal of Interest)
 
-| Metric | Target | Tool |
-|--------|--------|------|
-| Number of active cells using identity tooling | 10+ by Q2 2026 | Waku + Nomos integration |
-| % of contributors using portable reputation | 25% of active contributors | Codex / GitHub badges |
-| Number of opt-in attestations or mints | 500+ by Parallel Societies Conference | Nomos proposals + optional NFT |
-| Number of cell-to-cell collaborations enabled | 20+ joint projects | Reputation-facilitated matchmaking |
-| % of participants using pseudonyms | > 50% | Privacy-preserving by default |
+> *“I’d like to learn more or help.”*
 
----
+**Tactics**  
+- Join a Cell circle, lore game, or async RPG session  
+- Contribute to zines, memes, or symbolic rituals  
+- Co-create digital or physical lore artifacts  
 
-## Differentiation from Surveillance Models
+**Tools**  
+- Waku chat (ephemeral, private)  
+- Codex submissions (pseudonymous by default)  
+- Nomos for non-token-based input and proposals  
 
-| Feature | Surveillance CRM | Exit to Logos Identity |
-|---------|------------------|-------------------------|
-| **Consent** | Opt-out, forced capture | 100% opt-in |
-| **Storage** | Centralized cloud databases | Distributed via Codex or cell-led |
-| **Usage** | Targeting, segmentation | Collaboration, governance, lore |
-| **Verification** | KYC, phone/email | Contribution, rep, community trust |
-| **Privacy** | Tracked | Pseudonymous by default |
+**KPI Targets**  
+- `500+` contributors engaged by Q1 2026  
+- `100+` original lore contributions or remixes  
+- `50+` Cells report engagement sparked by funnel  
 
 ---
 
-## Storytelling as Identity
+### 3. 🛠️ Participation (Co-Creation)
 
-Rather than static IDs or scores, we propose that identity is a **narrative artifact**:
+> *“I’m actively building something here.”*
 
-- Case studies from cells act as trust signals.
-- Rep emerges from shared story, not metrics alone.
-- “Lore” becomes the connective tissue across contributors.
+**Tactics**  
+- Launch or support a new Cell  
+- Host field simulations or collaborative lore games  
+- Share governance experiments or decentralized rituals  
 
-By minting or indexing these stories, contributors create **living reputation trails** tied to real coordination—not just on-chain actions.
+**Tools**  
+- Codex (versioned lore, reports, and artifacts)  
+- Nomos (proposal templates, transparent deliberation)  
+- Waku (comms mesh between Cells)  
+
+**KPI Targets**  
+- `50+` active Cells reporting progress  
+- `150+` creative outputs documented and shared  
+- `30+` governance prototypes captured in lore  
+
+---
+
+### 4. 🌀 Stewardship (Narrative Infrastructure)
+
+> *“I want to help others shape and sustain this.”*
+
+**Tactics**  
+- Mentor new Cells or contributors  
+- Help standardize lore templates and ritual scaffolds  
+- Host inter-Cell sessions and lore exchanges  
+
+**Tools**  
+- Codex (reputation and lore continuity tools)  
+- Nomos (non-token signaling and mentorship support)  
+- Waku subnetworks for cross-Cell propagation  
+
+**KPI Targets**  
+- `25+` identified lorekeepers and stewards  
+- `5+` cross-Cell anthologies or collaborative publications  
+- `80%+` contributor alignment (self-reported via optional surveys)  
 
 ---
 
-## Final Notes
+## 📉 Measurement Without Surveillance
 
-This identity approach supports **stewardship over surveillance**. It aligns with Logos' values and enables a regenerative culture of:
+| Area | Metric |
+|------|--------|
+| Consentful Participation | Toolkit downloads, RPG signups, Matrix/Waku opt-ins |
+| Cell Activation | New Cells using Codex/Waku/Nomos |
+| Narrative Reach | Lore reactions, mints, Codex citations |
+| Community Health | Returning contributors, zine collabs, RPG feedback |
+| Protocol Dogfooding | Waku messages, Nomos proposals, Codex activity |
 
-- **Co-creation** (opt-in collaboration)
-- **Consent** (no forced onboarding)
-- **Continuity** (portable reputation)
-- **Cell sovereignty** (each group defines its own practices)
-
-This identity scaffold is only what is needed, and **no more**.
-
-> Trust is not tracked—it’s earned, shared, and storied.
+> No persistent cookies. No behavioral profiling. Just signal over noise.
 
 ---
+
+## 🔐 Privacy + Consent Design
+
+- **Waku**: ephemeral, metadata-minimized communication  
+- **Codex**: opt-in, pseudonymous publishing and indexing  
+- **Nomos**: consensus tooling without token-based hierarchy  
+- **Matrix/Farcaster**: burner-friendly bridges for early contact  
+- **No email traps, centralized CRMs, or ad trackers**  
+
+---
+
+## 📚 Toolchain Summary
+
+| Stage         | Tools Used                       | Outputs                             |
+|---------------|----------------------------------|--------------------------------------|
+| Awareness     | Codex, Waku                      | Zines, memes, short-form lore        |
+| Engagement    | Waku, Nomos                      | RPGs, discussions, async circles     |
+| Participation | Codex, Nomos, GitHub             | Rituals, lore drops, Cell proposals  |
+| Stewardship   | Codex, Waku, Nomos, Matrix       | Mentorship loops, cross-Cell lore    |
+
+---
+
+## 🫧 Meta-Principles
+
+- **Ephemeral + Optional** → Invisible infrastructure, visible coordination  
+- **Non-Linear Paths** → Join, exit, rejoin freely  
+- **Consent > Conversion** → Participation is the only goal  
+- **Lore > Loyalty** → Shared culture, not centralized authority  
+- **Transparent & Forkable** → Everything observable and remixable  
+
+---
+
+## 📉 Traditional Funnel vs Invisible Funnel
+
+| Traditional Funnel           | Logos Funnel                         |
+|-----------------------------|---------------------------------------|
+| Email capture               | Anonymous participation               |
+| Analytics and tracking      | Local metrics, consentful signals     |
+| Conversion-focused          | Culture-first, lore-centered          |
+| Centralized platforms       | Federated, self-hosted, mirrored      |
+| Extractive incentives       | Symbolic, opt-in, values-aligned      |
+
+---
+
+## 🧠 Philosophy
+
+> *Privacy is not an obstacle to participation—it’s a precondition for freedom.*  
+> *We don’t recruit. We resonate.*  
+> *We don’t convert. We co-create.*  
+
+**Exit isn’t escape. It’s emergence.**
+
+→ *Exit to Logos. Enter the lore.*
+
