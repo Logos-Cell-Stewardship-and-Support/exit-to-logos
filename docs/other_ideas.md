@@ -9,7 +9,7 @@
 
 This document contains secondary and experimental campaign ideas that can complement the primary “Exit to Logos” strategy. These are **modular**, **testable**, and **community-co-creatable**, but not essential to launch.
 
-They serve as a **menu of future directions** or tactical experiments for the Logos ecosystem and may be selectively adopted based on cell capacity, funding, and timing.
+They serve as a **menu of future directions** or tactical experiments for the Logos ecosystem and may be selectively adopted based on cell capacity, funding, and timing. This can be forked, expanded or ignored. 
 
 ---
 
@@ -104,16 +104,6 @@ They serve as a **menu of future directions** or tactical experiments for the Lo
   - Disaster resilience and mutual aid
 
 *Rationale:* Gives non-crypto communities a gateway into Logos infrastructure, through a narrative they recognize.
-
----
-
-## What We’re Not Prioritizing (Yet)
-
-These ideas were surfaced, but are not currently in scope for this campaign:
-
-- Logo merch and physical goods (pending production partnerships)
-- Full-blown DAO creation tools (complexity, risk of scope creep)
-- L2 token launches (no plans for speculative assets in this campaign)
 
 ---
 
