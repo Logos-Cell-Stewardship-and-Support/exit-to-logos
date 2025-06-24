@@ -28,12 +28,12 @@ Distribute a fully functional toolkit for Cell formation, lore creation, and sec
 **📡 Outreach & Engagement:**
 
 - Direct DMs to governance hackers, lorecrafters, and infra maintainers on:
-  - Farcaster, Matrix, Twitter/X, Lens
-- AMA hosted via Matrix and public stream (RPG kickoff, dev Q&A)
+  - Discord, Twitter/X, Farcaster, Lens
+- AMA hosted via Discord public stream (RPG kickoff, dev Q&A)
 - Loom-style walk-through of toolkit and Cell setup demo
 
 **📈 Metrics:**
-- 10+ Cells onboarded in Week 1
+- 10+ Cells onboarded and operational in first two months.
 - 5 Cells fork and modify toolkit with commits or PRs
 - 3 external contributors added to toolkit documentation team
 
@@ -74,7 +74,7 @@ Build public legitimacy and internal coordination capacity by using Logos tools 
 
 ---
 
-### Phase 3: Convergence & Invitation (Weeks 7–10)
+### Phase 3: Convergence & Invitation (lead up to Parallel Communities Conference)
 
 **🎯 Objective:**  
 Celebrate the Cell outcomes, remix the best ideas, and open the gates to the broader public—without tracking them.
@@ -93,7 +93,7 @@ Celebrate the Cell outcomes, remix the best ideas, and open the gates to the bro
     - Optional NFT mint (opt-in, no KYC)
 
 - **Public Showcase Event:**
-  - End-of-season livestream
+  - qaurterly End-of-season livestreams
   - Live demos of Cell coordination tools, lore performance, and Waku sessions
   - Publish highlights reel, lore drops, and tool adoption stats
 
@@ -104,7 +104,7 @@ Celebrate the Cell outcomes, remix the best ideas, and open the gates to the bro
 
 **📈 Metrics:**
 - 25+ Cells publicly documented or archived in Codex
-- 10 lore zines published from independent Cells
+- 10 lore zine articles published from independent Cells
 - 3–5 new tool modules contributed back to Exit Stack
 
 ---
@@ -112,7 +112,7 @@ Celebrate the Cell outcomes, remix the best ideas, and open the gates to the bro
 ## 🤝 Contributor Funnel (Invisible, but Real)
 
 - No Discord bots, no pixel trackers.
-- Onboarding happens through Waku, lore invites, GitHub, and word of mouth.
+- Onboarding happens through Waku, lore invites, GitHub, email opt ins and word of mouth.
 - Identity is optional and reputation is earned through action.
 
 | Role | Description |
@@ -131,26 +131,10 @@ Celebrate the Cell outcomes, remix the best ideas, and open the gates to the bro
 
 This campaign is a funnel with no surveillance.
 
-- **No analytics**
-- **No wallet-gated pages**
+- **No google analytics**
 - **No tracking pixels**
 - **No Discord scraping**
 
 We grow by consent, not coercion.
 
 ---
-
-## 🧑‍🔧 Execution Blueprint
-
-| Category | Roles & Tools |
-|---------|---------------|
-| Core Team | 1 Campaign Steward (Ben), 1 design/dev support, 2 part-time ops |
-| Community Roles | Lore writer, RPG host, comms amplifier, GitHub PM |
-| Infra Stack | Waku nodes, Nomos alpha, Codex (markdown + CLI), GitHub |
-
-**Timeline:**
-
-- Week 1–2 → Toolkit live, outreach begins  
-- Week 3–6 → RPG begins, Cells dogfood the stack  
-- Week 7–10 → Atlas published, Cells demo, contributor funnel opens
-
