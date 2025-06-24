@@ -1,4 +1,4 @@
-## **📂 Cell Map Automation Scaffold (Option 3)**
+## **📂 Cell Map Automation Scaffold**
 
 This section outlines a GitHub-to-Figma visualization pipeline for displaying the global network of Logos Cells using structured metadata, GeoJSON, and Figma overlays.
 
