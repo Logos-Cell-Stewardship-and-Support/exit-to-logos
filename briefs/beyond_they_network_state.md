@@ -88,9 +88,21 @@ The "Network State" vision—territory, founders, tokens, gated citizenship—is
 
 ---
 
-## Further Reading
+## Source Material
 
-- [David Graeber – *Pirate Enlightenment*](https://www.penguinrandomhouse.com/books/719537/pirate-enlightenment-or-the-true-liberation-of-libertalia-by-david-graeber/)
-- [Nathan Schneider – *Governable*](https://governable.dev)
-- [Bertrand de Jouvenel – *On Power: Its Nature and the History of Its Growth*](https://archive.org/details/onpoweritsnature00injouv)
-- [Princeton Study: Testing Theories of American Politics](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-ave)
+- **David Graeber – *Pirate Enlightenment***
+  - [Open Library listing](https://openlibrary.org/works/OL27816119W)  
+  - Discussion audio essay on Archive.org
+
+- **Nathan Schneider – *Governable Spaces***
+  - [Open Access PDF (LuminosOA)](https://luminosoa.org/site/books/10.1525/luminos.181/read/?)  
+  - OAPEN Library edition (full text)
+
+- **Bertrand de Jouvenel – *On Power: Its Nature and the History of Its Growth***
+  - [Internet Archive BookReader](https://archive.org/details/onpoweritsnature00jouv)  
+  - Full PDF available to download
+
+- **Martin Gilens & Benjamin I. Page – *Testing Theories of American Politics***
+  - [Research‑gate PDF](https://www.researchgate.net/publication/278151684_Testing_Theories_of_American_Politics_Elites_Interest_Groups_and_Average_Citizens)  
+  - [Journal PDF via Cambridge Core](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/...pdf)
+
