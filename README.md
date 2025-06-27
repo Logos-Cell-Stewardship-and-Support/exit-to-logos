@@ -1,6 +1,8 @@
 # Exit to Logos: Campaign Strategy Hub
 
-![Allegory of the Cave](
+<p align="center">
+  <img src="images/cave-allegory.png" alt="Allegory of the Cave" width="600">
+</p>
 
 **Exit to Logos** is a coordinated leap toward a future where autonomy, privacy, and peer-to-peer governance are not ideals, but lived realities. This repository serves as the digital staging ground for that campaign, anchoring resources, lore, and activation materials for contributors around the world.
 
@@ -11,7 +13,6 @@
 [![Download the Report](https://img.shields.io/badge/📄_Download_Report-Exit_to_Logos-111111?style=for-the-badge&logo=book&logoColor=white)](./Exit-to-Logos-Campaign-Strategy.pdf)
 
 The downloadable [Exit to Logos Campaign Strategy PDF](./Exit-to-Logos-Campaign-Strategy.pdf) provides a complete vision for growing the Logos movement across geographies and networks. Here's a breakdown of its contents:
-
 
 
 ### 1. **Campaign Overview**
@@ -104,6 +105,11 @@ These materials are exploratory, tactical, and lore-building. They are not final
 
 ## ✍️ About Me
 
-I'm **Ben West**, a campaign strategist, community organizer, and movement builder with over 25 years of experience across activism, operations, media relations, and policy-oriented political work. I've helped grow decentralized projects, coordinate distributed teams, and design tools that support self-determined communities.
+<a href="https://twitter.com/BenWest" target="_blank">
+  <img src="https://pbs.twimg.com/profile_images/1788000934401888256/6PIuM7AM_400x400.png" alt="Ben West" width="100" style="border-radius: 50%;">
+</a>
+
+
+I'm **Ben West**, a campaign director, strategist, community organizer, and movement builder with over 25 years of experience across activism, operations, media relations, and policy/ political work. I've helped grow decentralized projects, coordinate large distributed teams, and design tools that support self-determined communities.
 
 I'm excited about the Campaign Director role because Logos embodies the principles I’ve worked toward for decades: consent-based coordination, resilient infrastructure, and cultural systems that empower rather than extract. This plan reflects how I would approach the work—clear-eyed, collaborative, and focused on building something enduring across borders and protocols.
