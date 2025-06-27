@@ -116,6 +116,7 @@ These materials are exploratory, tactical, and lore-building. They are not final
 <a href="https://twitter.com/BenWest" target="_blank">
   <img src="https://github.com/user-attachments/assets/0ac70b7a-9183-4431-a8cb-5b7198a0007d" alt="Ben West" width="100" style="border-radius: 50%;">
 
+</a>
 
 I'm **Ben West**, a campaigner, strategist, community organizer, and movement builder with over 25 years of experience across activism, operations, media relations, and policy/ political work. I've helped grow decentralized projects, coordinate large distributed teams, and design tools that support self-determined communities.
 
