@@ -1,12 +1,18 @@
 # Exit to Logos: Campaign Strategy Hub
 
-**Exit to Logos** is more than a campaign—it’s a coordinated leap toward a future where autonomy, privacy, and peer-to-peer governance are not ideals, but lived realities. This repository serves as the digital staging ground for that campaign, anchoring resources, lore, and activation materials for contributors around the world.
+![Allegory of the Cave](
+
+**Exit to Logos** is a coordinated leap toward a future where autonomy, privacy, and peer-to-peer governance are not ideals, but lived realities. This repository serves as the digital staging ground for that campaign, anchoring resources, lore, and activation materials for contributors around the world.
 
 ---
 
 ## 📘 What’s in the Campaign Strategy PDF?
 
+[![Download the Report](https://img.shields.io/badge/📄_Download_Report-Exit_to_Logos-111111?style=for-the-badge&logo=book&logoColor=white)](./Exit-to-Logos-Campaign-Strategy.pdf)
+
 The downloadable [Exit to Logos Campaign Strategy PDF](./Exit-to-Logos-Campaign-Strategy.pdf) provides a complete vision for growing the Logos movement across geographies and networks. Here's a breakdown of its contents:
+
+
 
 ### 1. **Campaign Overview**
 - Why Logos? Why now?
