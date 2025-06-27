@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="./Exit-to-Logos-Campaign-Strategy.pdf" download>
-    <img src="images/download-button.png" alt="Download Exit to Logos Campaign Strategy" width="250">
+    <img src="images/download-button.png" alt="Download Exit to Logos Campaign Strategy" width="300">
   </a>
 </p>
 
