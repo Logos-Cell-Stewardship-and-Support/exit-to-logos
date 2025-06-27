@@ -82,10 +82,6 @@ The downloadable [Exit to Logos Campaign Strategy PDF](./Exit-to-Logos-Campaign-
 
 The `bonus/` folder includes additional strategy memos, experimental concepts, and internal tooling prototypes that complement the campaign plan:
 
-## 🎁 Bonus Materials
-
-The `bonus/` folder includes additional strategy memos, experimental concepts, and internal tooling prototypes that complement the campaign plan:
-
 - [`CellMapping.md`](bonus/CellMapping.md)  
   Mapping of existing and prospective Logos Cells with relational insights.
 
