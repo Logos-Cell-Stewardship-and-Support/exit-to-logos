@@ -1,7 +1,7 @@
 # Exit to Logos: Campaign Strategy Hub
 
 <p align="center">
-  <img src="images/cave-allegory.png" alt="Allegory of the Cave" width="600">
+  <img src="images/cave-allegory.png" alt="Allegory of the Cave" width="690.69">
 </p>
 
 **Exit to Logos** is a coordinated leap toward a future where autonomy, privacy, and peer-to-peer governance are not ideals, but lived realities. This repository serves as the digital staging ground for that campaign, anchoring resources, lore, and activation materials for contributors around the world.
